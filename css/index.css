@@ -1,43 +1,36 @@
+#imagen {
+  float: left;
+  width: 40%;
+}
+div{
+    float:right;
+}
+aside {
+  text-align: center;
+}
+main {
+  padding: 20px;
+}
 
+h1 {
+  text-align: center;
+}
 
-        
+article {
+  margin-bottom: 20px;
+}
 
-       
-        #imagen{
-            float:left;
-            width: 40ch;
-        }
-        aside {
-            text-align: center;
-        }
-        main {
-            padding: 20px;
-            
-        }
+article h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
 
-        h1 {
-            text-align: center;
-        }
-
-        article {
-            margin-bottom: 20px;
-        }
-
-        article h2 {
-            color: #333;
-            font-size: 24px;
-            margin-bottom: 10px;
-        }
-
-        article p {
-            color: #666;
-            font-size: 16px;
-            line-height: 1.5;
-        }
-       footer{
-        clear: both;
-       }
-  
-
-
-
+article p {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5;
+}
+footer {
+  clear: both;
+}
