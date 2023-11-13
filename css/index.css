@@ -3,17 +3,10 @@
   width: 40%;
 }
 div{
-    float:right;
-}
-aside {
-  text-align: center;
+  float:right;
 }
 main {
   padding: 20px;
-}
-
-h1 {
-  text-align: center;
 }
 
 article {
