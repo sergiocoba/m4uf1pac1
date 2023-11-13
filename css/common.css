@@ -10,11 +10,12 @@ footer a {
 }
 nav {
     background-color: #333;
-    display: flex;
-    justify-content: center;
-    padding: 10px;
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
 }
-
 nav a {
     color: #fff;
     text-decoration: none;
@@ -22,6 +23,7 @@ nav a {
 }
 body {
     font-family: Arial, sans-serif;
+    text-align: center;
     margin: 0;
     padding: 0;
 }

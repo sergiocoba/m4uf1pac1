@@ -15,13 +15,19 @@ label {
     display: block;
     margin-bottom: 5px;
 }
-
+input:hover{
+    background-color:#5962594d;
+}
+textarea:hover{
+    background-color: #5962594d;
+}
 input[type="text"],
 input[type="email"],
 textarea {
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;
+    
 }
 input[type="submit"] {
     background-color: #4caf50;

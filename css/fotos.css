@@ -1,0 +1,15 @@
+body {
+  
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+#fotos:hover{
+    background-color: aliceblue;
+}
+#fotos {
+    width: 100%;
+    max-width: 300px;
+    margin: 100px;
+    border: 3px solid #ddd;
+}
